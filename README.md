@@ -1,2 +1,2 @@
-# Stack-with-c-
+# Stack-with-C++
 Creating a stack using C++ language

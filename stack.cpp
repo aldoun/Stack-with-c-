@@ -36,5 +36,7 @@ int main()
 
     s1.print();
 
+    cout<<s1.Top()<<endl;
+
     return 0;
 }
